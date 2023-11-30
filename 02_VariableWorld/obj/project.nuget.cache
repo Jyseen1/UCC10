@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "eSuV0lGYtx8sMW7n8nw1FQ6X/vOufoNPf+IlxIMreVfgxnV+sZ0gtkHNdtLdyPSki79HhBdAbverSs1vB6qirw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\10TR\\Source\\Repos\\CS101-Live\\02_VariableWorld\\02_VariableWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\10TR\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\10TR\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\10TR\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\10TR\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

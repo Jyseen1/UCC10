@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Snn7y0a8mDwb2XJWWX7IAOk2tmJHm3iMNEx9XZ7agplu9UTsnYMHdTqY6+4GLB/PIZ8uFCzh1pLnUchfZmXfNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\10TR\\Source\\Repos\\CS101-Live\\03_TypeConversion\\03_TypeConversion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\10TR\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\10TR\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\10TR\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\10TR\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
